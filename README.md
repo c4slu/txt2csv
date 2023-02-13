@@ -22,4 +22,4 @@ O aplicativo se chama Txt2csv e foi criado para ajudar a dividir arquivos de tex
 <br>
 <br>
 <br>
-Este projeto foi desenvolviddo por [**Lucas "Caslu" Rodrigues**](https://www.linkedin.com/in/lucas-data/).
+Este projeto foi desenvolvido por [**Lucas "Caslu" Rodrigues**](https://www.linkedin.com/in/lucas-data/).
