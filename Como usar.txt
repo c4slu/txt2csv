@@ -1,0 +1,11 @@
+Como usar:
+
+1 - Importe o seu arquivo raiz na pasta *Mailing*;
+  a - E permitido apenas um (1) arquivo na pasta Mailing;
+  b - O arquivo deve ser no formato .TXT;
+2 - Execute Txt2Csv.exe;
+3 - Apos o fechamento do CMD, seus arquivos estaram tratados e dividos na pasta *Mailing Tratado*.
+
+Versao - 1.0v
+
+Criado por Lucas Rodrigues (MIS) - https://www.linkedin.com/in/lucas-data/
