@@ -311,7 +311,7 @@ def arch99():
 
 
 divide()
-print('Arquivo divido \n')
+print('👍 Arquivo dividido \n')
 time.sleep(1)
 arch01()
 print('✨ Arquivo 1 Tratado')

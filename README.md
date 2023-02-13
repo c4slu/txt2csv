@@ -12,8 +12,14 @@ O aplicativo se chama Txt2csv e foi criado para ajudar a dividir arquivos de tex
 2. Formatos personalizados dos arquivos CSV
 3. Análise de dados em arquivos TXT e transformação em arquivos CSV de acordo com as especificações definidas pelo cliente
 
-### Aplicativo em uso:
+## Aplicativo em uso:
 
 ![](https://i.imgur.com/8dnEjjV.gif)
 
+## Tecnologias Utilizadas:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+<br>
+<br>
 Este projeto foi desenvolviddo por [**Lucas "Caslu" Rodrigues**](https://www.linkedin.com/in/lucas-data/).
